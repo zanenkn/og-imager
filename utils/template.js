@@ -93,7 +93,7 @@ const templateHTML = `
     </head>
     <body id="body">
       <div class="wrapper">
-        <img src={{avatar}} />
+        <img src={{avatar}}>
         <div class="upper">
           <div class="text-wrapper">
             <h1>{{name}}<h1>
